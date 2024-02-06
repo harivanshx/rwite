@@ -4,7 +4,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>page</div>
+    <div>This is a new page in next js</div>
   )
 }
 
